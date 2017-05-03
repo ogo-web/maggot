@@ -1,0 +1,64 @@
+
+.Überschrift {color:rgb(0, 0, 0);text-align: center;background-image:url("http://niedblog.de/wp-content/uploads/2013/11/Sydney-Harbour-Opera-House-Panorama.jpg"); width:1500px ; height:300px;}
+
+.Text { width: 1250px;
+		font-size:24px;}
+		
+.Text2{width: 1250px;
+		font-size:20px;}
+		
+.Navigation{border-style: solid ; 
+			border-width: 5px ;
+			border-color:rgb(255, 169, 77);
+			width:200px;
+			background-color:rgb(255, 169, 77);
+			position: relative;
+			float: left;
+			margin-right:50px;
+			margin-bottom:20px;}
+			
+.Bild1{width:1500px;
+		height:300px;}
+		
+.Bild2{width:300px;
+		height:275px;
+		border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(179, 71, 0);
+		margin-right:50px;}
+
+.Bild3{width:700px;
+		height:275px;
+		border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(179, 71, 0);}
+		
+.Bild4{height:433px;
+		border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(51, 51, 255);
+		margin-right:20px;}
+
+.Bild5{height:433px;
+		border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(51, 51, 255);}
+		
+.Bild6{border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(163, 163, 194);
+		margin-right:20px;
+		width:489px;
+		height:305,5px;}
+
+.Bild7{border-style: solid ; 
+		border-width: 5px ;
+		border-color:rgb(163, 163, 194);
+		height:305,5px;
+		width:489px;}
+		
+
+		
+.Überschriftuluru {color:rgb(255, 153, 51);}
+.Überschriftreef{color:rgb(128, 159, 255);}
+.Überschriftopera{color:rgb(102, 102, 153);}
